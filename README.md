@@ -1,6 +1,6 @@
 # Brain-Tumor-Detection
 Brain is the most vital organ in the human body as it has command over all regular bodily activities. A tumor is a swelling or abnormal growth resulting from the division of cells in an uncontrolled and disorderly manner. If not detected at the early stages, brain tumors can turn out to be fatal. Magnetic Resonance Imaging (MRI) images are used by specialists and neurosurgeons for the diagnosis of brain tumors. 
-![image](https://github.com/HEMANTHESWARREDDY/Brain-Tumor-Detection/assets/86761812/b2e1cb4f-6cc8-41ff-b48d-a4f6188db6b6)
+<img src="https://github.com/HEMANTHESWARREDDY/Brain-Tumor-Detection/assets/86761812/b2e1cb4f-6cc8-41ff-b48d-a4f6188db6b6" width="400" height="400"/>
 
 
 # Data Set
@@ -9,7 +9,7 @@ All the images in the dataset are of 4 types of tumors
 2.notumor
 3.meningioma
 4.glioma
-<img src="https://github.com/HEMANTHESWARREDDY/Brain-Tumor-Detection/assets/86761812/fc573761-867f-43a2-bf96-d89ed5113a78" width="100" height="100"/>
+<img src="https://github.com/HEMANTHESWARREDDY/Brain-Tumor-Detection/assets/86761812/fc573761-867f-43a2-bf96-d89ed5113a78" width="400" height="400"/>
 
 
 # Data Set Link ⬇️
