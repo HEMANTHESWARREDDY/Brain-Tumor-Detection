@@ -9,7 +9,7 @@ All the images in the dataset are of 4 types of tumors
 2.notumor
 3.meningioma
 4.glioma
-![download (6)](https://github.com/HEMANTHESWARREDDY/Brain-Tumor-Detection/assets/86761812/fc573761-867f-43a2-bf96-d89ed5113a78)
+<img src="https://github.com/HEMANTHESWARREDDY/Brain-Tumor-Detection/assets/86761812/fc573761-867f-43a2-bf96-d89ed5113a78" width="100" height="100"/>
 
 
 # Data Set Link ⬇️
